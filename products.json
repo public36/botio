@@ -73,5 +73,12 @@
     "image": "https://picsum.photos/300?random=4191",
     "description": "Generated automatically by AI.",
     "price": "94 €"
+  },
+  {
+    "id": 12,
+    "name": "AI Product 2341",
+    "image": "https://picsum.photos/300?random=9906",
+    "description": "Generated automatically by AI.",
+    "price": "14 €"
   }
 ]
