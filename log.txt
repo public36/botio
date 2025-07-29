@@ -3,6 +3,7 @@ nohup: ignoring input
 🚀 بدء عملية التحديث والنشر الكاملة...
 
 ❌ لم يتم العثور على مفتاح SSH في: /data/data/com.termux/files/home/.ssh/id_rsa
+<<<<<<< HEAD
 2025-07-29 10:13:39 - 
 🚀 Starting full update and deployment...
 
@@ -41,3 +42,14 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2025-07-29 10:14:46 - ✅ Netlify build triggered.
 2025-07-29 10:14:46 - ✅ All tasks completed.
 
+=======
+2025-07-29 06:58:18 - 
+🚀 Starting full update and deployment...
+
+>>>>>>> dece939 (momo update 2025-07-29T06:58:18.333168)
+2025-07-29 10:16:56 - 
+🚀 Starting full update and deployment...
+
+2025-07-29 10:16:56 - 📁 المشروع موجود مسبقاً. تخطيت الاستنساخ.
+2025-07-29 10:16:56 - 🆕 Product added: AI Product 9696
+2025-07-29 10:16:56 - [Git Pull] 
