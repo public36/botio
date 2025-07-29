@@ -46,6 +46,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2025-07-29 06:58:18 - 
 🚀 Starting full update and deployment...
 
+<<<<<<< HEAD
 >>>>>>> dece939 (momo update 2025-07-29T06:58:18.333168)
 2025-07-29 10:16:56 - 
 🚀 Starting full update and deployment...
@@ -66,3 +67,14 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2025-07-29 10:16:59 - ✅ Netlify build triggered.
 2025-07-29 10:17:00 - ✅ All tasks completed.
 
+=======
+2025-07-29 10:06:07 - 
+🚀 Starting full update and deployment...
+
+>>>>>>> d1dadd1 (momo update 2025-07-29T10:06:07.711093)
+2025-07-29 10:37:14 - 
+🚀 Starting full update and deployment...
+
+2025-07-29 10:37:14 - 📁 المشروع موجود مسبقاً. تخطيت الاستنساخ.
+2025-07-29 10:37:14 - 🆕 Product added: AI Product 7277
+2025-07-29 10:37:14 - [Git Pull] 
