@@ -53,3 +53,16 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2025-07-29 10:16:56 - 📁 المشروع موجود مسبقاً. تخطيت الاستنساخ.
 2025-07-29 10:16:56 - 🆕 Product added: AI Product 9696
 2025-07-29 10:16:56 - [Git Pull] 
+2025-07-29 10:16:58 - ❌ Push failed:
+To github.com:public36/botio.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:public36/botio.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+2025-07-29 10:16:59 - 🌐 Triggering Netlify build: https://api.netlify.com/build_hooks/6887ae6d1960c1aff4e4d209
+2025-07-29 10:16:59 - ✅ Netlify build triggered.
+2025-07-29 10:17:00 - ✅ All tasks completed.
+
